@@ -1,0 +1,6 @@
+This short script is used to change the description of the random channel on my
+Teamspeak server. It randomly selects a image in a directory and sets the
+description of the channel to that image. The script should be easy to modify
+to change the behavior.
+
+This script uses https://github.com/nikdoof/python-ts3 to talk to TS.
